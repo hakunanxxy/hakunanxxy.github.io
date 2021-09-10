@@ -105,7 +105,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "나는 행복한 사람."
   location         : "Somewhere"
-  email            : youna.park04@gamil.com
+  email            : "youna.park04@gamil.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
