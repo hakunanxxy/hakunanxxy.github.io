@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "aqua" # "air", "contrast", "dark", "dirt", "neon", "
 
 # Site Settings
 locale                   : "ko"
-title                    : "고민중"
+title                    : "ㄲㅑㅎㅏㅇㅎㅏㅇ ㅇㅠㄴㅏㅇㅡㅣ ㅂㅡㄹㄹㅗㄱㅡ"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "박유나"
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "박유나"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image, e.g. "/assets/images/"
   bio              : "INSTAGRAM_ @an._.xxy"
   location         : "대한민국, 용인"
   email            : "youna.park04@gmail.com"
